@@ -1,4 +1,4 @@
-# Cancer Immunotherapy Data Science Challenge
+# Cancer Immunotherapy Data Science Competition
 Prediction of the best individual gene modifications to make T cells more effective for cancer immunotherapy.
 
 *As part of a challenge on <a href="https://www.topcoder.com/">Topcoder.</a>*<br>
