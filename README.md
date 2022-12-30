@@ -3,7 +3,7 @@ Prediction of the best individual gene modifications to make T cells more effect
 
 *As part of a challenge on <a href="https://www.topcoder.com/">Topcoder.</a>*<br>
 
-<img src="https://uc1452afbf44dcf0732d69f90c93.dl.dropboxusercontent.com/cd/0/inline/BzkcXxM2iRyPAd75iS2wqLpIoqu77rcKGBi-rp__VtISc_21zr_5vSv02rTB-hwgEJg53TwzHvT_jl12LEwtw-HscTK3FKMrYQZUsfUiEsxzVQ3RpF3r156jPth1ZgAi_VgrkyEaJezfb5VJo-vZWz-jmA5lAfQmXZDvYQq9KH-PhQ/file#"/>
+<img src="project_banner_broad_immunotherapy.png"/>
 
 ## Project Overview
 This competition centers on the question of how to make T cells, the fighter cells of our immune system, better at killing cancer cells. The Eric and Wendy Schmidt Center at the Broad Institute of MIT and Harvard, in conjunction with Harvard’s Laboratory for Innovation Science and other collaborators, are hosting this competition.
