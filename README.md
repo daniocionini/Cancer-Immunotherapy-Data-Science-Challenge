@@ -6,9 +6,9 @@ Prediction of the best individual gene modifications to make T cells more effect
 <img src="project_banner_broad_immunotherapy.png"/>
 
 ## Project Overview
-This competition centers on the question of how to make T cells, the fighter cells of our immune system, better at killing cancer cells. The Eric and Wendy Schmidt Center at the Broad Institute of MIT and Harvard, in conjunction with Harvard’s Laboratory for Innovation Science and other collaborators, are hosting this competition.
+This competition centers on the question of how to make T cells, the fighter cells of our immune system, better at killing cancer cells. 
 
-While scientists have tested some genetic modifications, or “perturbations,” to T cells in the lab, there are too many possible perturbations — and combinations of perturbations — to solve this problem experimentally. Our goal in this competition is to bring machine learning to this problem to help identify which perturbations could make cancer immunotherapy more effective.
+While scientists have tested some genetic modifications, or “perturbations,” to T cells in the lab, there are too many possible perturbations — and combinations of perturbations — to solve this problem experimentally. The goal is to bring machine learning to this problem to help identify which perturbations could make cancer immunotherapy more effective.
 
 ## Project Objective
 - Predict the effect of unseen, held-out genetic modifications, or "perturbations," to T cells.
