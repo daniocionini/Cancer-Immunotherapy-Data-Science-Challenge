@@ -1,7 +1,7 @@
 # T cells prediction for Cancer Immunotherapy
 Prediction of the best individual gene modifications to make T cells more effective for cancer immunotherapy.
 
-*As part of a challenge on <a href="https://www.topcoder.com/">Topcoder</a>* and MIT.<br>
+*As part of a challenge on <a href="https://www.topcoder.com/">Topcoder</a>* **hosted by <a href="https://www.broadinstitute.org/ewsc">The Eric and Wendy Schmidt Center</a> at the <a href="https://www.broadinstitute.org/">Broad Institute of MIT and Harvard</a> in conjuction with Harvard's Laboratory for Innovation Science<br>**
 
 <img src="project_banner_broad_immunotherapy.png"/>
 
